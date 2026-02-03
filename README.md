@@ -68,9 +68,7 @@
    npm run dev
    ```
 
-## 📄 License
-This project is for educational purposes as part of a capstone project.
 
 ---
 
-Built with ❤️ for better financial tracking.
+Built for better financial tracking.
