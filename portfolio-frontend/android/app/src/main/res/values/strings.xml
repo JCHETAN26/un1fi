@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">un1fi</string>
+    <string name="title_activity_main">un1fi</string>
+    <string name="package_name">com.un1fi.app</string>
+    <string name="custom_url_scheme">com.un1fi.app</string>
+</resources>
